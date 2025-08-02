@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 My name is Maruf, a Information Science Sophmore at Cornell, and I've made this page for you to learn more about my technical strengths. Enjoy!
+### Some of my skills include:
+
 
 <!--
 **marnan4/marnan4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
