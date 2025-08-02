@@ -1,4 +1,7 @@
-## Hi there 👋 My name is Maruf, a Information Science Sophmore at Cornell, and I've made this page for you to learn more about my technical strengths. Enjoy!
+# Hi, I'm Maruf Aurnap 👋
+
+I'm a Cornell University undergrad (Class of 2028) passionate about Machine Learning, Full-Stack Development, and Blockchain Technology. I love building accessible, real-world tools powered by AI and data.
+
 ### Here are a few technologies I've been working with:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,3 +22,17 @@ A multilingual transcription and translation app built with Whisper and NLLB-200
 - Processes audio files with Web Workers for fast inference  
 - Built with React, Hugging Face Transformers, and machine learning models
 - 
+### [Weather Website](https://github.com/marnan4/Weather-Website)
+A full-stack weather forecasting site powered by real-time data.  
+- Built with **HTML**, **CSS**, and **JavaScript**  
+- Uses the **OpenWeatherMap API** to fetch live forecast data  
+- Clean UI design and responsive layout for mobile and desktop  
+
+---
+
+### [Titanic Death Survival Prediction](https://github.com/marnan4/TitanicDeathSurvival)
+A data science project predicting passenger survival on the Titanic.  
+- Implements XGBoost using **Scikit-Learn**, and also uses **Pandas**, and **Matplotlib**  
+- Cleaned and visualized the dataset, then trained classification models  
+- Focused on data preprocessing, feature engineering, and model evaluation 
+
