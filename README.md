@@ -37,9 +37,9 @@ A data science project predicting passenger survival on the Titanic.
 - Focused on data preprocessing, feature engineering, and model evaluation 
 
 ---
-###[Nasa React App](https://github.com/marnan4/nasa-react-app)
+### [Nasa React App](https://github.com/marnan4/nasa-react-app)
 A React-based web application that interacts with NASA’s APIs to display space-related data and imagery.
--Fetches real-time data from NASA APIs (e.g., Astronomy Picture of the Day).
--Built with React.js, JavaScript, and CSS.
+-Fetches real-time data from **NASA APIs** (e.g., Astronomy Picture of the Day).
+-Built with **React.js**, **JavaScript**, and **CSS**.
 -Clean, responsive UI design for mobile and desktop.
--Demonstrates API integration and asynchronous data handling.
+-Demonstrates **API integration** and **asynchronous data handling**.
