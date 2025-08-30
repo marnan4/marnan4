@@ -13,7 +13,7 @@ I'm a Cornell University undergrad (Class of 2028) passionate about Machine Lear
 ![Hyperledger](https://img.shields.io/badge/-Hyperledger-2DABB1?style=for-the-badge&logo=hyperledger&logoColor=white)
 ![Terminal](https://img.shields.io/badge/-Terminal-black?style=for-the-badge&logo=gnubash&logoColor=white)
 
-## 🧠 Projects
+## Projects
 
 ### [Free-Scribe](https://github.com/marnan4/free-scribe)
 A multilingual transcription and translation app built with Whisper and NLLB-200.  
@@ -21,7 +21,7 @@ A multilingual transcription and translation app built with Whisper and NLLB-200
 - Supports 200+ languages  
 - Processes audio files with Web Workers for fast inference  
 - Built with React, Hugging Face Transformers, and machine learning models
-- 
+---
 ### [Weather Website](https://github.com/marnan4/Weather-Website)
 A full-stack weather forecasting site powered by real-time data.  
 - Built with **HTML**, **CSS**, and **JavaScript**  
@@ -36,3 +36,10 @@ A data science project predicting passenger survival on the Titanic.
 - Cleaned and visualized the dataset, then trained classification models  
 - Focused on data preprocessing, feature engineering, and model evaluation 
 
+---
+###[Nasa React App](https://github.com/marnan4/nasa-react-app)
+A React-based web application that interacts with NASA’s APIs to display space-related data and imagery.
+-Fetches real-time data from NASA APIs (e.g., Astronomy Picture of the Day).
+-Built with React.js, JavaScript, and CSS.
+-Clean, responsive UI design for mobile and desktop.
+-Demonstrates API integration and asynchronous data handling.
