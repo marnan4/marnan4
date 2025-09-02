@@ -42,4 +42,13 @@ A data science project predicting passenger survival on the Titanic.
 A full-stack weather forecasting site powered by real-time data.  
 - Built with **HTML**, **CSS**, and **JavaScript**  
 - Uses the **OpenWeatherMap API** to fetch live forecast data  
-- Clean UI design and responsive layout for mobile and desktop  
+- Clean UI design and responsive layout for mobile and desktop
+
+---
+### [Email Spam Detector](https://colab.research.google.com/drive/1gMOGZT8XWAj4hKewcOthNSVbQQwdscUW#scrollTo=1tGoIHEmdzGi)
+A natural language processing application that can detect spam mail from real input.
+ - Fine-tuned a **BERT**-based classifier for text classification
+ - Preprocessed and tokenized raw email data with **Hugging Face Transformers**
+ - Implemented training, validation, and evaluation pipelines with **PyTorch**
+ - Achieved scores up to 98% across accuracy, precision, recall, and F1-score
+ 
