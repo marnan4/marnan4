@@ -1,6 +1,6 @@
 # Hi, I'm Maruf Aurnap 👋
 
-I'm a Cornell University undergrad (Class of 2028) passionate about Machine Learning, Full-Stack Development, and Blockchain Technology. I love building accessible, real-world tools powered by AI and data.
+I'm a Cornell University undergraduate student passionate about Machine Learning and Full-Stack Development. I love building accessible, real-world tools powered by AI and data.
 
 ### Here are a few technologies I've been working with:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
