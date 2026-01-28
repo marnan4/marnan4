@@ -15,6 +15,13 @@ I'm a Cornell University undergraduate student passionate about Machine Learning
 
 ## Projects
 
+### [Predictive Gas-Pump Mantainence](https://github.com/marnan4/Accenture-2C-Predictive-Maintenance-for-Oil-Gas-Pump-Operation)
+An entire machine learning lifecycle for machine learning powered gas pump mantainence system
+**Key Features**:
+- Built an end to end predictive maintenance system for oil and gas pump operations using 720,000+ sensor records, evaluating Logistic Regression, Random Forest, Gradient Boosted Trees, MLP, and LSTM models with a 7 member fellowship team.
+- Built a production style FastAPI demo that served real time pump failure predictions through a live gas pump monitoring dashboard, simulating deployment of machine learning driven decision support for operations teams.
+- Selected and tuned a regularized Logistic Regression model achieving 100 percent precision and recall, demonstrating an 50 percent reduction in unplanned downtime and approximately 1.3 million dollars in projected savings over 100 days.
+---
 ### [Free-Scribe](https://github.com/marnan4/free-scribe)
 A multilingual transcription and translation app built with Whisper and NLLB-200.  
 **Key Features**:
@@ -22,15 +29,21 @@ A multilingual transcription and translation app built with Whisper and NLLB-200
 - Processes audio files with Web Workers for fast inference  
 - Built with React, Hugging Face Transformers, and machine learning models
 ---
+### [Email Spam Detector](https://colab.research.google.com/drive/1gMOGZT8XWAj4hKewcOthNSVbQQwdscUW#scrollTo=1tGoIHEmdzGi)
+A natural language processing application that can detect spam mail from real input.
+ - Fine-tuned a **BERT**-based classifier for text classification
+ - Preprocessed and tokenized raw email data with **Hugging Face Transformers**
+ - Implemented training, validation, and evaluation pipelines with **PyTorch**
+ - Achieved scores up to 98% across accuracy, precision, recall, and F1-score
+---
 ### [Nasa React App](https://github.com/marnan4/nasa-react-app)
 A React-based web application that interacts with NASA’s APIs to display space-related data and imagery.
 - Fetches real-time data from **NASA APIs** (e.g., Astronomy Picture of the Day).
-- Built with **React.js**, **JavaScript**, and **CSS**.
+- Built with **React.js**, **JavaScript**, and **CSS**
 - Clean, responsive UI design for mobile and desktop.
 - Demonstrates **API integration** and **asynchronous data handling**.
 
 ---
-
 ### [Titanic Death Survival Prediction](https://github.com/marnan4/TitanicDeathSurvival)
 A data science project predicting passenger survival on the Titanic.  
 - Implements XGBoost using **Scikit-Learn**, and also uses **Pandas**, and **Matplotlib**  
@@ -44,11 +57,4 @@ A full-stack weather forecasting site powered by real-time data.
 - Uses the **OpenWeatherMap API** to fetch live forecast data  
 - Clean UI design and responsive layout for mobile and desktop
 
----
-### [Email Spam Detector](https://colab.research.google.com/drive/1gMOGZT8XWAj4hKewcOthNSVbQQwdscUW#scrollTo=1tGoIHEmdzGi)
-A natural language processing application that can detect spam mail from real input.
- - Fine-tuned a **BERT**-based classifier for text classification
- - Preprocessed and tokenized raw email data with **Hugging Face Transformers**
- - Implemented training, validation, and evaluation pipelines with **PyTorch**
- - Achieved scores up to 98% across accuracy, precision, recall, and F1-score
  
