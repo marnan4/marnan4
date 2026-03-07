@@ -3,17 +3,31 @@
 I'm a Cornell University undergraduate student passionate about Machine Learning and Full-Stack Development. I love building accessible, real-world tools powered by AI and data.
 
 ### Here are a few technologies I've been working with:
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![GoLang](https://img.shields.io/badge/-GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-121212?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Server Sent Events](https://img.shields.io/badge/-SSE-FF6F00?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hyperledger](https://img.shields.io/badge/-Hyperledger-2DABB1?style=for-the-badge&logo=hyperledger&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
 ![Terminal](https://img.shields.io/badge/-Terminal-black?style=for-the-badge&logo=gnubash&logoColor=white)
 
+
 ## Projects
+
+### [SecondSight](https://github.com/SakshamKapoor2911/SecondSight)
+SecondSight is an autonomous AI agent that audits live web applications, fixes accessibility violations with LLM generated patches, and automatically opens verified GitHub pull requests.
+- Built SecondSight, an autonomous AI agent that audits live web apps and automatically generates GitHub PRs fixing WCAG accessibility violations affecting ~95% of the top 1M websites.
+- Architected a multi stage LLM agent pipeline (audit → map → code → verify → PR) using Python, LangGraph, Playwright, axe core, and Gemini to detect issues, generate targeted fixes, and validate them via automated re scans.
+- Developed a real time remediation dashboard with Next.js, FastAPI, and Server Sent Events that streams agent logs and integrates GitHub automation to produce minimal, reviewable code diffs.
 
 ### [Predictive Gas-Pump Mantainence](https://github.com/marnan4/Accenture-2C-Predictive-Maintenance-for-Oil-Gas-Pump-Operation)
 An entire machine learning lifecycle for machine learning powered gas pump mantainence system
@@ -25,9 +39,10 @@ An entire machine learning lifecycle for machine learning powered gas pump manta
 ### [Free-Scribe](https://github.com/marnan4/free-scribe)
 A multilingual transcription and translation app built with Whisper and NLLB-200.  
 **Key Features**:
-- Supports 200+ languages  
-- Processes audio files with Web Workers for fast inference  
-- Built with React, Hugging Face Transformers, and machine learning models
+- Built a multilingual transcription and translation web application using React.js for the frontend, integrating Whisper via Xenova to support transcription across 200 plus languages.
+- Improved application responsiveness by running optimized client side ML inference pipelines using Web Workers, executing Whisper models directly in the browser without blocking the UI or relying on server side inference.
+- Achieved 95 percent transcription accuracy through efficient model integration, inference optimization, and careful pipeline orchestration between frontend and ML components.
+
 ---
 ### [Email Spam Detector](https://colab.research.google.com/drive/1gMOGZT8XWAj4hKewcOthNSVbQQwdscUW#scrollTo=1tGoIHEmdzGi)
 A natural language processing application that can detect spam mail from real input.
