@@ -37,8 +37,7 @@ An entire machine learning lifecycle for machine learning powered gas pump manta
 - Selected and tuned a regularized Logistic Regression model achieving 100 percent precision and recall, demonstrating an 50 percent reduction in unplanned downtime and approximately 1.3 million dollars in projected savings over 100 days.
 ---
 ### [Free-Scribe](https://github.com/marnan4/free-scribe)
-A multilingual transcription and translation app built with Whisper and NLLB-200.  
-**Key Features**:
+A multilingual transcription and translation app built with Whisper and NLLB-200.
 - Built a multilingual transcription and translation web application using React.js for the frontend, integrating Whisper via Xenova to support transcription across 200 plus languages.
 - Improved application responsiveness by running optimized client side ML inference pipelines using Web Workers, executing Whisper models directly in the browser without blocking the UI or relying on server side inference.
 - Achieved 95 percent transcription accuracy through efficient model integration, inference optimization, and careful pipeline orchestration between frontend and ML components.
