@@ -23,7 +23,7 @@ I'm a Cornell University undergraduate student passionate about Machine Learning
 
 ## Projects
 
-### [SecondSight](https://github.com/SakshamKapoor2911/SecondSight)
+### [SecondSight](https://github.com/marnan4/SecondSight)
 SecondSight is an autonomous AI agent that audits live web applications, fixes accessibility violations with LLM generated patches, and automatically opens verified GitHub pull requests.
 - Built SecondSight, an autonomous AI agent that audits live web apps and automatically generates GitHub PRs fixing WCAG accessibility violations affecting ~95% of the top 1M websites.
 - Architected a multi stage LLM agent pipeline (audit → map → code → verify → PR) using Python, LangGraph, Playwright, axe core, and Gemini to detect issues, generate targeted fixes, and validate them via automated re scans.
