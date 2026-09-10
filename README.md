@@ -1,4 +1,4 @@
-# Hi, I'm Maruf Aurnap 👋
+# Hi, I'm Maruf Aurnap 
 
 I'm a Cornell University undergraduate student passionate about Machine Learning and Full-Stack Development. I love building accessible, real-world tools powered by AI and data.
 
